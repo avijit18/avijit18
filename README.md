@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avj.patra@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/in/avijit-patra-15143a200/)
+- 📄 Know about my experiences https://avijit-patra.vercel.app/
 
 - ⚡ Fun fact **When I'm not coding, you can find me on the hiking trails, conquering nature's challenges and finding inspiration in its breathtaking beauty! 🌲🚶‍♂️**
 
