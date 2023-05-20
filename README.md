@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences https://avijit-patra.vercel.app/
 
-- ⚡ Fun fact **When I'm not coding, you can find me on the hiking trails, conquering nature's challenges and finding inspiration in its breathtaking beauty! 🌲🚶‍♂️**
+- ⚡ Fun fact **When I'm not coding, you can find me on the hiking trails, conquering nature's challenges and finding inspiration in its breathtaking beauty! 🌲🚶‍, I've hiked enough trails to code a map of adventures! 🏞️🌲🚶‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
