@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **at LTIMINDTREE, I work as a Software Engineer under the ServiceNow Cloud Domain on the P&G project**
 
-- 🌱 I’m currently learning **Android Development, Kotlin**
+- 🌱 I’m currently learning **MicroServices, Java**
 
 - 💬 Ask me about **Web Development, Javascript, ServiceNow**
 
-- 📫 How to reach me **avj.patra@gmail.com**
+- 📫 How to reach me **patra.ap.work@gmail.com**
 
-- 📄 Know about my experiences https://avijit-patra.vercel.app/
+- 📄 Know about my experiences **https://avijit-patra.vercel.app/**
 
 - ⚡ Fun fact **When I'm not coding, you can find me on the hiking trails, conquering nature's challenges and finding inspiration in its breathtaking beauty! 🌲🚶‍, I've hiked enough trails to code a map of adventures! 🏞️🌲🚶‍♂️**
 
