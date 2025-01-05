@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit18&label=Profile%20views&color=0e75b6&style=flat" alt="avijit18" /> </p>
 
-- 🔭 I’m currently working on **at LTIMINDTREE, I work as a Software Engineer under the ServiceNow Cloud Domain on the P&G project**
+- 🔭 I’m currently working on **at LTIMINDTREE, I work as a Software Engineer under the ServiceNow Cloud Domain and Spring Boot**
 
-- 🌱 I’m currently learning **Microservices, Java, Spring Boot**
+- 🌱 I’m currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avijit18](https://github.com/avijit18)
 
-- 💬 Ask me about **Web Development, ServiceNow, Java, Spring Boot**
+- 💬 Ask me about **Backend Development, ServiceNow, Java, Spring Boot, Microservices**
 
 - 📫 How to reach me **patra.ap.work@gmail.com**
 
