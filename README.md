@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit18&label=Profile%20views&color=0e75b6&style=flat" alt="avijit18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avijit18" alt="avijit18" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=avijit18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working as a **Software Engineer at LTIMindtree, specializing in ServiceNow Cloud Development and Spring Boot**
 
