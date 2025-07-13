@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijit Patra</h1>
-<h3 align="center">Software Engineer @ LTIMindtree | ServiceNow + Spring Boot Specialist | Backend Architect</h3>
+<h3 align="center">Technical Consultant @ LTIMindtree | ServiceNow + Spring Boot Specialist | Backend Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit18&label=Profile%20views&color=0e75b6&style=flat" alt="avijit18" /> </p>
 
