@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Avijit Patra</h1>
-<h3 align="center">A Software Engineer from India passionate about building impactful and cutting-edge solutions</h3>
+<h3 align="center">Software Engineer @ LTIMindtree | ServiceNow + Spring Boot Specialist | Backend Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit18&label=Profile%20views&color=0e75b6&style=flat" alt="avijit18" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avijit18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working as a **Software Engineer at LTIMindtree, specializing in ServiceNow Cloud Development and Spring Boot**
+- 🔭 I’m currently working as a **Technical Consultant** at **LTIMindtree**, specializing in ServiceNow Cloud Development and Spring Boot. I've transformed enterprise ITSM operations for clients like P&G through precision scripting (Client Scripts, UI Policies, Business Rules), achieving 75% fewer bugs and 40% faster system performance.
 
-- 💬 I’m happy to share insights about **Backend Development, ServiceNow, Java, Spring Boot, and Microservices**
+- 💻 **As a founding member at CodeByte,** I architect production-grade Spring Boot backends, designing JWT-secured REST APIs that automate 35% of manual processes. My Cloudinary integrations and system optimizations maintain 99.9% uptime for seamless user experiences.
 
-- 🌟 I’m expanding my expertise **in Microservices Architecture, focusing on designing scalable, high-performance systems**
+- 📚 I'm actively deepening my expertise in Microservices Architecture, focusing on building resilient, high-performance distributed systems that scale with business needs.
+  
+- 🧠 I document my Java, Spring Boot, and Microservices learning journey through practical content, breaking down complex concepts into actionable insights. This helps bridge the gap between academic knowledge and real-world implementation for fellow developers.
 
-- 👨‍💻 Explore my portfolio of projects on [GitHub](https://github.com/avijit18)
+- 👨‍💻 Explore my technical projects and contributions on **[GitHub](https://github.com/avijit18)**
+- 🌐 Discover my professional journey and achievements at **https://avijitpatra.me/**
 
-- 📫 Reach out to me at **patra.ap.work@gmail.com**
+- 📫 Let's connect and collaborate: **patra.ap.work@gmail.com**
 
-- 📄 Know about my experiences and professional journey on [https://www.linkedin.com/in/avijit-patra-15143a200/](https://www.linkedin.com/in/avijit-patra-15143a200/)
+- 📄 View my professional background: **[LinkedIn](https://www.linkedin.com/in/avijit-patra-15143a200/)**
 
-- ⚡ Fun fact **When I’m not coding, I’m chasing adrenaline and adventure! From hiking scenic trails 🌄 to exploring hidden gems in nature 🌿, I believe every step outside is a step closer to creativity. Who needs a desk when inspiration is everywhere? 🚶‍♂️🌲✨**
+- ⚡ **Debugging Adventures: My most creative solutions emerge when I'm hiking trails or seeking adrenaline rushes. Nature's unpredictability inspires better system design than any office whiteboard! 🌿🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
